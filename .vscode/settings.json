@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "JAR/c3p0-0.9.5.4.jar",
+        "JAR/jcalendar-1.4.jar",
+        "JAR/mchange-commons-java-0.2.16.jar",
+        "JAR/mysql-connector-java-8.0.17.jar"
+    ]
+}
